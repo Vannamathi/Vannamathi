@@ -1,16 +1,59 @@
-## Hi there 👋
+# Hi there 👋, I'm Vannamathi B  
 
-<!--
-**Vannamathi/Vannamathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Graduate in Information Technology**  
+📊 **Aspiring Data Analyst | AI/ML Enthusiast**  
+💡 Passionate about transforming data into insights and solving real-world problems with technology.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔍 Fresher skilled in **Python, SQL, Excel, MySQL, Streamlit, and Data Visualization**  
+- 📈 Experienced in **EDA, Data Cleaning, and Machine Learning (Regression, Decision Trees, Random Forest, XGBoost)**  
+- 🛠️ Hands-on projects with **Data Analysis, Business Insights, and Web Apps**  
+- 🌱 Currently preparing for **AI/ML Engineer & Data Analyst roles**  
+- 🤝 Open to relocation and eager to contribute to impactful projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+### Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+
+---
+
+## 📌 Projects  
+- 📊 **Car Price Prediction App** – Built with ML models & Streamlit for interactive predictions  
+- 🚌 **RedBus Scraper** – Extracted bus data using Selenium & stored in SQL, built dashboard in Streamlit  
+- 🏬 **Global Electronics EDA** – Conducted Exploratory Data Analysis to improve business insights and customer satisfaction  
+
+---
+
+## 📊 GitHub Stats  
+
+![Vannamathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vannamathi&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vannamathi&layout=compact&theme=radical)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vannamathi&theme=radical)  
+
+---
+
+## 📫 Connect With Me  
+- 📧 Email: **vannamathibaskaran@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vannamathi-b)  
+- 🐙 [GitHub](https://github.com/Vannamathi)  
+
+---
+
+⭐️ *“Data is the new oil, but insight is the spark that makes it valuable.”*  
